@@ -5,7 +5,7 @@ This is online store data from 1996 to 1998, containing information about produc
 
 ---
 ## Tools
-Power Bi
+POWER BI
 
  
 ## Data Analysis
